@@ -1,0 +1,39 @@
+ {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+.up{
+    display:flex;
+}
+.h{
+    padding:50px;
+    height: 2000px;
+    width: 2000px;
+    
+}
+.name{
+    padding: 0 20 20 0;
+    margin:0;
+    font-size: 12px;
+    
+}
+.pname{
+    padding:0 10 10 0;
+    margin-top:0
+}
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.post{
+    background-color: white;
+    width: 293px;
+    height: 500px;
+    margin:auto;
+}
+.bottom{
+    font-size: smaller;
+}
+.down{
+    font-size:xx-large;
+}
